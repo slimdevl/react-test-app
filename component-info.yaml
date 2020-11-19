@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: react-test
+  description: This is a backstage react test app
+spec:
+  type: website
+  lifecycle: experimental
+  owner: slimdevl
